@@ -1,4 +1,4 @@
-# High-throughput CRISPR screen: three-month project
+# High-throughput CRISPR screen
 
 A Google Colab / Jupyter notebook for analysing pooled CRISPR knockout or CRISPRi sgRNA counts, with a 12-week research plan.
 
